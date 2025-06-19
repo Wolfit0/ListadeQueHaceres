@@ -10,3 +10,16 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# Lista de queHaceres con React, Vite y Docker
+
+Este es un proyecto simple de una lista de queHaceres hecha en React con Vite, y contenerizada con Docker y Docker Compose.
+
+## Cómo correr la app con Docker
+
+```bash
+npm run dev
+
+```bash
+docker-compose up --build
