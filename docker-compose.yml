@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  vite-todo:
+    build: .
+    ports:
+      - "3000:80"
