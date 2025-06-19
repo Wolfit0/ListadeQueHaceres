@@ -14,12 +14,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Lista de queHaceres con React, Vite y Docker
 
-Este es un proyecto simple de una lista de queHaceres hecha en React con Vite, y contenerizada con Docker y Docker Compose.
+Proyecto de lista de queHaceres hecha en React con Vite y contenerizada con Docker y Docker Compose.
 
 ## Cómo correr la app con Docker
 
 ```bash
-npm run dev
-
-```bash
-docker-compose up --build
+--> npm run dev
+--> docker-compose up --build
